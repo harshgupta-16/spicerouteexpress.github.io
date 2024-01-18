@@ -24,7 +24,7 @@
 }
 
 .navbar ul li a {
-    font-size: 16px;
+    font-size: 15px;
     margin: 0px 0px 0px 5px;
     padding: 2px 5px 3px 5px;
 }
@@ -42,8 +42,8 @@
 }
 
 .home {
-    width: 370px;
-    padding: 127px 35px 10px 35px;
+    width: 310px;
+    padding: 127px 0px 10px 0px;
     font-weight: bold;
     color: black;
 }

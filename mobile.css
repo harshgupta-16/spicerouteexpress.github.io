@@ -43,7 +43,7 @@
 
 .home {
     width: 310px;
-    padding: 127px 0px 10px 0px;
+    padding: 127px 15px 10px 15px;
     font-weight: bold;
     color: black;
 }
@@ -53,7 +53,7 @@
 }
 
 .home p {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .home #btn1 {

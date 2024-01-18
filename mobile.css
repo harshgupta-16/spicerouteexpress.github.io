@@ -42,16 +42,16 @@
 }
 
 .home {
-    width: 260px;
-    padding: 172px 70px 10px 70px;
+    width: 370px;
+    padding: 127px 0px 10px 0px;
 }
 
 .home h1 {
-    font-size: 18px;
+    font-size: 27px;
 }
 
 .home p {
-    font-size: 13px;
+    font-size: 18px;
 }
 
 .home #btn1 {
